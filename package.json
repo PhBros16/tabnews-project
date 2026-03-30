@@ -1,0 +1,25 @@
+{
+  "name": "tabnews-project",
+  "version": "1.0.0",
+  "description": "~ Início de uma nova nova jornada. Do zero a alguma coisa...",
+  "homepage": "https://github.com/PhBros16/tabnews-project#readme",
+  "bugs": {
+    "url": "https://github.com/PhBros16/tabnews-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhBros16/tabnews-project.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
