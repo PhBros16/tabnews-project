@@ -1,5 +1,7 @@
 function Home () {
-    return <h1>Alô Alô Marciano, aqui quem fala é da Terraaaa🤪</h1>
+    return <h1><h1 style={{ color: 'rebeccapurple', textAlign: 'center', fontFamily: 'sans-serif' }}>
+  Alô Alô Marciano... 👽
+</h1></h1>
 }
 
 export default Home;
