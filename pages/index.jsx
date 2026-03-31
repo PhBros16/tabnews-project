@@ -1,10 +1,18 @@
 
     function Home() {
   return (
-    <h1 style={{ color: 'rebeccapurple', textAlign: 'center', fontFamily: 'sans-serif' }}>
+  <div style={{ 
+    backgroundColor: '#1a1a1a', 
+    height: '100vh', 
+    display: 'flex', 
+    justifyContent: 'center', 
+    alignItems: 'center' 
+  }}>
+    <h1 style={{ color: 'rebeccapurple', fontFamily: 'sans-serif', fontSize: '3rem' }}>
       Alô Alô Marciano... 👽
     </h1>
-  );
-}
+  </div>
+);
+    }
 
 export default Home;
