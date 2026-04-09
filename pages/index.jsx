@@ -22,12 +22,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log("teste");
-}
-
-function teste() {
-  console.log("indentação errada");
-}
-
 export default Home;
